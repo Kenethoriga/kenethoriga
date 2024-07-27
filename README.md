@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi 👋, I'm Keneth Origa
+I am passionate about Data analysis and Web Development
 
-<!--
-**Kenethoriga/kenethoriga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🌱 I’m currently learning AWS, Ml
 
-Here are some ideas to get you started:
+    👨‍💻 All of my projects are available at here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    💬 Ask me about Django, R, Python, Notebooks
+
+    📫 How to reach me Kenethoriga@live.com
+
+My OpenSource Projects
+
+    Django
+
+My Recent Projects
+
+    Link Squeeze
+    Brevue
+    Laravel Payments
+    And many more
+
+Blogs posts
+
+    Laravel One to One Relationship: A Beginner’s Guide
+    Contabo Review: Is It Really Good?
+    Firebase Push Notifications in Laravel: A Comprehensive Guide
+
+Connect with me:
+
+ian_kumu ian-kumu https://www.iankumu.com/blog/feed/
+Languages and Tools:
+
+bash bootstrap css3 firebase flask gcp git graphql heroku html5 java javascript laravel linux mysql nginx php postgresql postman python redis tailwind vuejs 
