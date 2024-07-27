@@ -5,8 +5,6 @@ I'm an Operations Research student at Jomo Kenyatta University of Agriculture an
 
 - 🎓 **Education**: BSc in Operations Research
 - 💼 **Experience**: Data Analyst, Full-Stack Software Engineer Intern, Data Annotation 
-- 🌐 **LinkedIn**: [Keneth Origa](https://www.linkedin.com/in/kenethoriga)
-- 🖥️ **GitHub**: [Keneth Origa](https://www.github.com/kenethoriga)
 
 ## 🛠️ Skills
 ### Languages and Tools:
