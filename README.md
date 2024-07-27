@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Keneth Ogutu!
-
-![Profile Banner](https://your-profile-banner-url.com)
+# 👋 Hi there, I'm Keneth Origa!
 
 ## 🚀 About Me
 I'm an Operations Research student at Jomo Kenyatta University of Agriculture and Technology (JKUAT) with a strong passion for data analysis, software development, and blockchain technology. I enjoy solving complex problems and am always eager to learn and grow in the tech field.
@@ -32,12 +30,9 @@ Here are a few projects I've worked on:
 ## 💬 Let's Connect!
 - 📧 **Email**: kenethoriga@live.com
 - 🐦 **Twitter**: [@kenethoriga](https://twitter.com/kenethoriga)
-- 💼 **LinkedIn**: [Keneth Ogutu](https://www.linkedin.com/in/kenethoriga)
+- 💼 **LinkedIn**: [Keneth Origa](https://www.linkedin.com/in/kenethoriga)
 
 ## 📈 GitHub Stats
-![Keneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenethoriga&show_icons=true&theme=radical)
-
-## 🏅 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenethoriga&layout=compact&theme=radical)
+![Keneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenethoriga&show_icons=true&theme=radical)## 🏅 Top Languages![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenethoriga&layout=compact&theme=radical)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech. 😊
