@@ -33,6 +33,9 @@ Here are a few projects I've worked on:
 - 💼 **LinkedIn**: [Keneth Origa](https://www.linkedin.com/in/kenethoriga)
 
 ## 📈 GitHub Stats
-![Keneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenethoriga&show_icons=true&theme=radical)## 🏅 Top Languages![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenethoriga&layout=compact&theme=radical)
+![Keneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenethoriga&show_icons=true&theme=radical)
+
+
+## 🏅 Top Languages![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenethoriga&layout=compact&theme=radical)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech. 😊
