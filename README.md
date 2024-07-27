@@ -4,7 +4,7 @@
 I'm an Operations Research student at Jomo Kenyatta University of Agriculture and Technology (JKUAT) with a strong passion for data analysis, software development, and blockchain technology. I enjoy solving complex problems and am always eager to learn and grow in the tech field.
 
 - 🎓 **Education**: BSc in Operations Research
-- 💼 **Experience**: Data Analyst, Full-Stack Software Engineer Intern, Data Annotation Specialist
+- 💼 **Experience**: Data Analyst, Full-Stack Software Engineer Intern, Data Annotation 
 - 🌐 **LinkedIn**: [Keneth Origa](https://www.linkedin.com/in/kenethoriga)
 - 🖥️ **GitHub**: [Keneth Origa](https://www.github.com/kenethoriga)
 
@@ -16,15 +16,13 @@ I'm an Operations Research student at Jomo Kenyatta University of Agriculture an
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 
 ## 🌟 Projects
 Here are a few projects I've worked on:
 
-1. **[Campus Cycle Rentals]**: A bicycle rental service tailored for university students.
+1. **Campus Cycle Rentals**: A bicycle rental service tailored for university students.
 2. **[Real Estate Data Analysis](https://github.com/kenethoriga/real-estate-data-analysis)**: Analyzing and visualizing real estate datasets.
 
 ## 🌱 Currently Learning
@@ -38,6 +36,10 @@ Here are a few projects I've worked on:
 - 🐦 **Twitter**: [@kenethoriga](https://twitter.com/kenethoriga)
 - 💼 **LinkedIn**: [Keneth Origa](https://www.linkedin.com/in/kenethoriga)
 
+## 📈 GitHub Stats
+![Keneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenethoriga&show_icons=true&theme=radical)
 
+## 🏅 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenethoriga&layout=compact&theme=radical)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech. 😊
