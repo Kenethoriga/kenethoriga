@@ -32,8 +32,6 @@ Here are a few projects I've worked on:
 
 ## 💬 Let's Connect!
 - 📧 **Email**: kenethoriga@live.com
-- 🐦 **Twitter**: [@kenethoriga](https://twitter.com/kenethoriga)
-- 💼 **LinkedIn**: [Keneth Origa](https://www.linkedin.com/in/kenethoriga)
 
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech. 😊
