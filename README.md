@@ -30,7 +30,7 @@ Here are a few projects I've worked on:
 - Advanced Machine Learning techniques
 - Cloud Computing (AWS Solution Architect)
 - Deepening my knowledge in blockchain technology
-- Database Manage(MongoDB)
+- Database Management(MongoDB)
 
 ## 💬 Let's Connect!
 - 📧 **Email**: kenethoriga@live.com
