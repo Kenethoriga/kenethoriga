@@ -40,24 +40,17 @@ Results-driven tech professional with a background in Operations Research, speci
 
 ## 🧠 Projects
 
-### 🖼️ Deep Learning-Based Custom Image Multi-Class Classifier  
-**May 2025 – Present**  
-Developed a custom deep learning model for multi-class image classification, targeting the limitations of models like ResNet and DenseNet on low-resolution datasets (e.g., CIFAR-10). Focused on improving feature extraction efficiency.  
-**Skills**: Deep Learning · Machine Learning · Data Analysis
+- **🖼️ Image Classifier (May 2025 – Present)**  
+  Built a deep learning model for multi-class image classification on low-res datasets like CIFAR-10.  
+  _Skills: Deep Learning, Machine Learning, Data Analysis_
 
----
+- **♻️ Textile Waste Forecasting (Sep 2024 – Apr 2025)**  
+  Used LSTM to forecast second-hand textile demand and waste in Nairobi.  
+  _Skills: RNNs, Time Series, Data Analysis_
 
-### ♻️ Forecasting Second-Hand Textile Demand & Waste Generation Using RNNs  
-**Sep 2024 – Apr 2025**  
-Built an LSTM-based model to forecast second-hand textile demand and related waste in Nairobi County. The project addresses sustainability by supporting data-driven policy and waste management solutions.  
-**Skills**: Recurrent Neural Networks (RNNs) · Data Analysis · Time Series Forecasting
-
----
-
-### 📊 Revenue Insights in Hospitality – Power BI Project  
-**Associated with Cyber Shujaa**  
-Designed an interactive Power BI dashboard showing key hospitality metrics like revenue, occupancy, and booking trends. Focused on data transformation, modeling, and DAX calculations.  
-**Skills**: Power BI · Data Visualization · DAX · Data Modeling
+- **📊 Hospitality Revenue Dashboard**  
+  Created a Power BI dashboard showing trends in revenue, occupancy, and bookings.  
+  _Skills: Power BI, DAX, Data Visualization_
 
 ---
 
