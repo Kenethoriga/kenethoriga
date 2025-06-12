@@ -1,37 +1,78 @@
 # 👋 Hi there, I'm Keneth Origa!
 
-## 🚀 About Me
-I'm an Operations Research student at Jomo Kenyatta University of Agriculture and Technology (JKUAT) with a strong passion for data analysis, software development, and blockchain technology. I enjoy solving complex problems and am always eager to learn and grow in the tech field.
+## 🚀 About Me  
+I'm a graduate in Operations Research from Jomo Kenyatta University of Agriculture and Technology (JKUAT), passionate about data analytics, backend development, and cloud technologies. I enjoy leveraging mathematical models and code to solve complex real-world problems and build scalable systems. I'm committed to continuous learning and staying at the forefront of technological innovation.
 
-- 🎓 **Education**: BSc in Operations Research
-- 💼 **Experience**: Data Analyst, Full-Stack Software Engineer Intern, Data Annotation 
+- 🎓 **Education**: BSc in Operations Research (JKUAT, 2025)  
+- 💼 **Experience**:  
+  - Data Analyst Associate @ Excelerate  
+  - Back End Developer @ Black Mental Health Matters  
+  - Data Annotator @ Remotasks  
+  - Technical Writer @ Blue Doa Digest  
+- 🌍 **Location**: Nairobi, Kenya  
+
+---
 
 ## 🛠️ Skills
-### Languages and Tools:
+
+### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Platforms  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Data & Dev Tools  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🌟 Projects
-Here are a few projects I've worked on:
+---
 
-1. **Campus Cycle Rentals**: A bicycle rental service tailored for university students.
-2. **[Real Estate Data Analysis](https://github.com/kenethoriga/real-estate-data-analysis)**: Analyzing and visualizing real estate datasets.
+## 🌟 Featured Projects
+
+- 🚲 **Campus Cycle Rentals**  
+  A campus-based bicycle rental service offering affordable and eco-friendly transportation to students.
+
+- 📊 [**Real Estate Data Analysis**](https://github.com/kenethoriga/real-estate-data-analysis)  
+  A Python-based analysis and visualization of real estate market trends.
+
+- 🧠 **Final Year Project**  
+  Forecasted second-hand textile waste in Kenya using Recurrent Neural Networks (RNNs) in R.
+
+---
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning techniques
-- Cloud Computing (AWS Solution Architect)
-- Deepening my knowledge in blockchain technology
-- Database Management(MongoDB)
+- Advanced Machine Learning (Deep Learning, NLP, Forecasting)
+- AWS Solution Architect (Cloud Computing)
+- MongoDB and NoSQL Databases
+- Cybersecurity & AI (Acyberschool Secure+ Scholar)
 
-## 💬 Let's Connect!
-- 📧 **Email**: kenethoriga@live.com
+---
 
+## 🎯 Activities & Initiatives
+- 📢 **DroidconKE 2024** – Event Organizer  
+- 💻 **SafariDAO 2023** – Event Volunteer  
+- 🚀 **Denaco Analytics** – Campus Ambassador  
+- 👥 **Taifa Teule Network** – Leadership Program Participant  
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech. 😊
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: [kenethoriga@live.com](mailto:kenethoriga@live.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kenethoriga)  
+- 💻 [GitHub](https://www.github.com/kenethoriga)  
+
+---
+
+_Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or chat about all things tech._ 😊
