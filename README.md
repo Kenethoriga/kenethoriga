@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Keneth Origa!
 
 ## 🚀 About Me  
-I'm a graduate in Operations Research from Jomo Kenyatta University of Agriculture and Technology (JKUAT), passionate about data analytics, backend development, and cloud technologies. I enjoy leveraging mathematical models and code to solve complex real-world problems and build scalable systems. I'm committed to continuous learning and staying at the forefront of technological innovation.
+Results-driven tech professional with a background in Operations Research, specializing in data analytics, backend development, and cloud technologies. Skilled in building scalable systems, automating workflows, and delivering insights to optimize decision-making. Passionate about innovation, emerging technologies, and solving real-world problems through data and code.
 
 - 🎓 **Education**: BSc in Operations Research (JKUAT, 2025)  
 - 💼 **Experience**:  
@@ -38,16 +38,26 @@ I'm a graduate in Operations Research from Jomo Kenyatta University of Agricultu
 
 ---
 
-## 🌟 Featured Projects
+## 🧠 Projects
 
-- 🚲 **Campus Cycle Rentals**  
-  A campus-based bicycle rental service offering affordable and eco-friendly transportation to students.
+### 🖼️ Deep Learning-Based Custom Image Multi-Class Classifier  
+**May 2025 – Present**  
+Developed a custom deep learning model for multi-class image classification, targeting the limitations of models like ResNet and DenseNet on low-resolution datasets (e.g., CIFAR-10). Focused on improving feature extraction efficiency.  
+**Skills**: Deep Learning · Machine Learning · Data Analysis
 
-- 📊 [**Real Estate Data Analysis**](https://github.com/kenethoriga/real-estate-data-analysis)  
-  A Python-based analysis and visualization of real estate market trends.
+---
 
-- 🧠 **Final Year Project**  
-  Forecasted second-hand textile waste in Kenya using Recurrent Neural Networks (RNNs) in R.
+### ♻️ Forecasting Second-Hand Textile Demand & Waste Generation Using RNNs  
+**Sep 2024 – Apr 2025**  
+Built an LSTM-based model to forecast second-hand textile demand and related waste in Nairobi County. The project addresses sustainability by supporting data-driven policy and waste management solutions.  
+**Skills**: Recurrent Neural Networks (RNNs) · Data Analysis · Time Series Forecasting
+
+---
+
+### 📊 Revenue Insights in Hospitality – Power BI Project  
+**Associated with Cyber Shujaa**  
+Designed an interactive Power BI dashboard showing key hospitality metrics like revenue, occupancy, and booking trends. Focused on data transformation, modeling, and DAX calculations.  
+**Skills**: Power BI · Data Visualization · DAX · Data Modeling
 
 ---
 
